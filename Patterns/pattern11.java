@@ -1,3 +1,9 @@
+// 1 
+// 0 1 
+// 1 0 1 
+// 0 1 0 1 
+// 1 0 1 0 1
+
 class pattern11 {
     static public void pattern11(int n) {
          for(int i=1;i<=n;i++)

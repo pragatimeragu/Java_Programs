@@ -1,3 +1,13 @@
+
+// *
+// **
+// ***
+// ****
+// *****
+// ****
+// ***
+// **
+// *
 class pattern10 {
     static public void pattern10(int n) {
         for(int i=1;i<=n;i++)
